@@ -1,3 +1,5 @@
+Follow this halfbad documentation or be better and set it up based on the real docs: https://docs.openwebui.com/features/rag/
+What I wanted to test is under the header  `Add "static" RAG -> Prompt`
 # Easy POC setup without RAG
 1. Start LM studio, download an appropriate model for your setup (if running on your laptop, pick a small one so you actually can test without getting bogged down), I used: qwen2.5-14b-instruct-mlx
 2. Start the server in LM studio
